@@ -1,4 +1,4 @@
-<h1 align="center"> Collab - Let's grow together 🚀 </h1>
+<h1 align="center"> Collab - Let's grow together :rocket: by contributing to open source:triangular_flag_on_post:  </h1>
 
 
 
