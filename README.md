@@ -5,13 +5,15 @@
 ![final 4](https://user-images.githubusercontent.com/109018286/178136414-0640228c-68fa-4123-a118-f73ad60718cd.png)
 
 
-We as a community loves open source! Make Pull Requests, open Issues, share ideas, help each other and make improvements
+We as a community love open source, make pull requests, open issues, share ideas, help each other and make improvements!
 
 # Suggested steps to get started :smiley:
-1.
-2.
-3.
-4.
+1. Join our <a href = "https://discord.gg/PGadh3Vyuv">Discord</a>
+2. Give your introduction
+3. Join our community meetups
+4. Be active ❤️
 
 
-# Join our discord ::purple_heart: - https://discord.gg/PGadh3Vyuv
+<a href = "https://discord.gg/PGadh3Vyuv"><img src = "https://img.icons8.com/color/344/discord-logo.png" style ="height:4%; width:4%;"></a>
+<a href = "https://twitter.com/collab__"><img src = "https://img.icons8.com/fluency/344/twitter.png" style ="height:4%; width:4%;"></a>
+
