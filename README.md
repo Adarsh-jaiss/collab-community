@@ -1,8 +1,9 @@
 <h1 align="center"> Collab - Let's contribute together:triangular_flag_on_post:  </h1>
 
 
+<img align="center"> ![logo4](https://user-images.githubusercontent.com/96974600/178653970-e24b45d4-c6d6-455a-8c0e-fc852c1f9783.png) </img>
 
-![final 4](https://user-images.githubusercontent.com/109018286/178136414-0640228c-68fa-4123-a118-f73ad60718cd.png)
+
 
 
 We as a community love open source, make pull requests, open issues, share ideas, help each other and make improvements!
